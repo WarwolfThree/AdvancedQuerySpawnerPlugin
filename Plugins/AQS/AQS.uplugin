@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "AQS",
+	"Description": "Advanced query-based spawn system. Highly experimental.",
+	"Category": "System",
+	"CreatedBy": "Michael Greenard",
+	"CreatedByURL": "http://imake.games/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "AQS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
